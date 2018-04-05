@@ -12,5 +12,14 @@
 	<atom:link href="https://zohyos7.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>My Paper Name</title>
+      <link>https://zohyos7.github.io/publication/my-paper-name/</link>
+      <pubDate>Thu, 05 Apr 2018 21:56:38 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/publication/my-paper-name/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -10,5 +10,14 @@
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>My Paper Name</title>
+      <link>https://zohyos7.github.io/publication/my-paper-name/</link>
+      <pubDate>Thu, 05 Apr 2018 21:56:38 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/publication/my-paper-name/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
