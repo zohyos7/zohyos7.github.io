@@ -11,6 +11,23 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>My first blog</title>
+      <link>https://zohyos7.github.io/post/my-article-name/</link>
+      <pubDate>Thu, 05 Apr 2018 22:12:28 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/post/my-article-name/</guid>
+      <description>&lt;p&gt;나의 첫번째 블로그!&lt;br /&gt;
+앞으로 읽은 논문들이랑 modeling &amp;amp; neuroimaging 관련해서 공부한 내용 여기에 열심히 업로드 해야지 :)!!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Push yourslef, Don&amp;rsquo;t settle. Knowing you still have possibilities is a luxury&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Me Before You&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My Paper Name</title>
       <link>https://zohyos7.github.io/publication/my-paper-name/</link>
       <pubDate>Thu, 05 Apr 2018 21:56:38 +0900</pubDate>
