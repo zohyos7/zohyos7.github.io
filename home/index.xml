@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://zohyos7.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome to Steph&#39;s personal webpage</title>
+      <link>https://zohyos7.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/home/hero/</guid>
+      <description>I&amp;rsquo;m a Research Assistant in CCS lab,
+aspring to be a social neuroscientist 😄  </description>
+    </item>
     
     <item>
       <title></title>
