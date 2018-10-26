@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Yoonseo Stephanie Zoh</title>
+    <title>Homes on Yoonseo Zoh</title>
     <link>https://zohyos7.github.io/home/</link>
-    <description>Recent content in Homes on Yoonseo Stephanie Zoh</description>
+    <description>Recent content in Homes on Yoonseo Zoh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,7 +13,16 @@
     
     
     <item>
-      <title>Welcome to Steph&#39;s personal webpage</title>
+      <title></title>
+      <link>https://zohyos7.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome to Yooonseo&#39;s personal webpage</title>
       <link>https://zohyos7.github.io/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0900</pubDate>
       
@@ -26,10 +35,28 @@ who studies human&amp;rsquo;s moral minds 😄  </description>
     <item>
       <title></title>
       <link>https://zohyos7.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://zohyos7.github.io/home/about/</guid>
       <description>Biography Yoonseo Zoh is currently working as a Lab Manager in CCS Lab. She received her B.A. in Psychology and Education from Seoul National University with summa cum laude. She is broadly interested in the neural mechanisms underlying cognitive and affective processes in social contexts. Her research interests include moral decision making, empathy and prosocial behavior. In the CCS Lab, Yoonseo hopes to gain knowledge in computational modeling and neuroimaging methods.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://zohyos7.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://zohyos7.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zohyos7.github.io/home/experience/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -51,9 +78,18 @@ who studies human&amp;rsquo;s moral minds 😄  </description>
     </item>
     
     <item>
+      <title>Selected Talks</title>
+      <link>https://zohyos7.github.io/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://zohyos7.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://zohyos7.github.io/home/talks/</guid>
       <description></description>
@@ -62,7 +98,7 @@ who studies human&amp;rsquo;s moral minds 😄  </description>
     <item>
       <title>Recent Posts</title>
       <link>https://zohyos7.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://zohyos7.github.io/home/posts/</guid>
       <description></description>
@@ -71,19 +107,20 @@ who studies human&amp;rsquo;s moral minds 😄  </description>
     <item>
       <title>Projects</title>
       <link>https://zohyos7.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://zohyos7.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Teaching</title>
+      <title>Custom Section</title>
       <link>https://zohyos7.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://zohyos7.github.io/home/teaching/</guid>
-      <description></description>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>
@@ -96,9 +133,18 @@ who studies human&amp;rsquo;s moral minds 😄  </description>
     </item>
     
     <item>
+      <title>Search</title>
+      <link>https://zohyos7.github.io/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://zohyos7.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://zohyos7.github.io/home/contact/</guid>
       <description></description>

@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Yoonseo Stephanie Zoh</title>
+    <title>Publications on Yoonseo Zoh</title>
     <link>https://zohyos7.github.io/publication/</link>
-    <description>Recent content in Publications on Yoonseo Stephanie Zoh</description>
+    <description>Recent content in Publications on Yoonseo Zoh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://zohyos7.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My Paper Name</title>
-      <link>https://zohyos7.github.io/publication/my-paper-name/</link>
-      <pubDate>Thu, 05 Apr 2018 21:56:38 +0900</pubDate>
-      
-      <guid>https://zohyos7.github.io/publication/my-paper-name/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -1,40 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yoonseo Stephanie Zoh on Yoonseo Stephanie Zoh</title>
+    <title>Yoonseo Zoh on Yoonseo Zoh</title>
     <link>https://zohyos7.github.io/</link>
-    <description>Recent content in Yoonseo Stephanie Zoh on Yoonseo Stephanie Zoh</description>
+    <description>Recent content in Yoonseo Zoh on Yoonseo Zoh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0900</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>My first blog</title>
-      <link>https://zohyos7.github.io/post/my-article-name/</link>
-      <pubDate>Thu, 05 Apr 2018 22:12:28 +0900</pubDate>
-      
-      <guid>https://zohyos7.github.io/post/my-article-name/</guid>
-      <description>&lt;p&gt;나의 첫번째 블로그!&lt;br /&gt;
-앞으로 읽은 논문들이랑 modeling &amp;amp; neuroimaging 관련해서 공부한 내용 여기에 열심히 업로드 해야지 :)!!&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Push yourslef, Don&amp;rsquo;t settle. Knowing you still have possibilities is a luxury&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;mdash; Me Before You&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My Paper Name</title>
-      <link>https://zohyos7.github.io/publication/my-paper-name/</link>
-      <pubDate>Thu, 05 Apr 2018 21:56:38 +0900</pubDate>
-      
-      <guid>https://zohyos7.github.io/publication/my-paper-name/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
