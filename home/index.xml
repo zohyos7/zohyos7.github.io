@@ -88,15 +88,6 @@ I&amp;rsquo;m interested in the way people form and update a representation of o
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://zohyos7.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>https://zohyos7.github.io/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recent Posts</title>
       <link>https://zohyos7.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
@@ -122,6 +113,15 @@ I&amp;rsquo;m interested in the way people form and update a representation of o
       <guid>https://zohyos7.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Presentation</title>
+      <link>https://zohyos7.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/home/talks/</guid>
+      <description></description>
     </item>
     
     <item>
