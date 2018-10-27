@@ -14,10 +14,28 @@
     
     <item>
       <title>Create fMRI Analysis Workflow with Python</title>
-      <link>https://zohyos7.github.io/project/nipype/</link>
+      <link>https://zohyos7.github.io/project/1_nipype/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://zohyos7.github.io/project/nipype/</guid>
+      <guid>https://zohyos7.github.io/project/1_nipype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribute to hBayesDM</title>
+      <link>https://zohyos7.github.io/project/2_hbayesdm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/project/2_hbayesdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing and Plotting LGBT data with R</title>
+      <link>https://zohyos7.github.io/project/5_lgbt/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/project/5_lgbt/</guid>
       <description></description>
     </item>
     

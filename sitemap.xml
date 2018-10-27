@@ -44,7 +44,7 @@
     
     <url>
     
-      <loc>https://zohyos7.github.io/project/nipype/</loc>
+      <loc>https://zohyos7.github.io/project/1_nipype/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     <url>
     
-      <loc>https://zohyos7.github.io/project/hbayesdm/</loc>
+      <loc>https://zohyos7.github.io/project/2_hbayesdm/</loc>
       <lastmod>2016-04-27T00:00:00+09:00</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>https://zohyos7.github.io/project/political/</loc>
+      <loc>https://zohyos7.github.io/project/3_political/</loc>
       <lastmod>2016-04-27T00:00:00+09:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://zohyos7.github.io/project/rgbt/</loc>
+      <loc>https://zohyos7.github.io/project/5_lgbt/</loc>
       <lastmod>2016-04-27T00:00:00+09:00</lastmod>
     </url>
     
@@ -76,7 +76,15 @@
     
     <url>
     
-      <loc>https://zohyos7.github.io/project/taskdesign/</loc>
+      <loc>https://zohyos7.github.io/project/4_taskdesign/</loc>
+      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zohyos7.github.io/project/seniorthesis/</loc>
       <lastmod>2016-04-27T00:00:00+09:00</lastmod>
     </url>
     
@@ -86,6 +94,15 @@
     
       <loc>https://zohyos7.github.io/tags/altruism/</loc>
       <lastmod>2018-05-31T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zohyos7.github.io/tags/bayesian/</loc>
+      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -128,7 +145,7 @@
     
     <url>
     
-      <loc>https://zohyos7.github.io/tags/demo/</loc>
+      <loc>https://zohyos7.github.io/tags/moral-psychology/</loc>
       <lastmod>2016-04-27T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
@@ -172,8 +189,35 @@
     
     <url>
     
+      <loc>https://zohyos7.github.io/tags/r/</loc>
+      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zohyos7.github.io/tags/research/</loc>
+      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zohyos7.github.io/tags/social-psychology/</loc>
       <lastmod>2018-06-08T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zohyos7.github.io/tags/stan/</loc>
+      <lastmod>2016-04-27T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     

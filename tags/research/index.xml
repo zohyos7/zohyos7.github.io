@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on YOONSEO ZOH</title>
+    <link>https://zohyos7.github.io/tags/research/</link>
+    <description>Recent content in Research on YOONSEO ZOH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://zohyos7.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ideological correlates of social cognition and emotional processing during fMRI</title>
+      <link>https://zohyos7.github.io/project/3_political/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/project/3_political/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing and Plotting LGBT data with R</title>
+      <link>https://zohyos7.github.io/project/5_lgbt/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/project/5_lgbt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review &amp; Propose task for measuring one&#39;s valuation to social vs. monetary reward</title>
+      <link>https://zohyos7.github.io/project/4_taskdesign/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/project/4_taskdesign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senior Thesis on licensing effect of Moral condemnation</title>
+      <link>https://zohyos7.github.io/project/seniorthesis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/project/seniorthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
