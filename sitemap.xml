@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>https://zohyos7.github.io/talk/example-copy-2/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zohyos7.github.io/talk/example-copy/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zohyos7.github.io/talk/example/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zohyos7.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+09:00</lastmod>
     </url>
@@ -20,8 +44,18 @@
     
     <url>
     
-      <loc>https://zohyos7.github.io/talk/</loc>
+      <loc>https://zohyos7.github.io/tags/altruism/</loc>
       <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zohyos7.github.io/tags/brain-stimulation/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -29,6 +63,15 @@
     <url>
     
       <loc>https://zohyos7.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zohyos7.github.io/tags/computational-modeling/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -45,6 +88,16 @@
     <url>
     
       <loc>https://zohyos7.github.io/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zohyos7.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -54,6 +107,15 @@
     
       <loc>https://zohyos7.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zohyos7.github.io/tags/fmri/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     

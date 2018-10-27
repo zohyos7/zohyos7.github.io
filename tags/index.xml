@@ -7,9 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://zohyos7.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Altruism</title>
+      <link>https://zohyos7.github.io/tags/altruism/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/tags/altruism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain Stimulation</title>
+      <link>https://zohyos7.github.io/tags/brain-stimulation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/tags/brain-stimulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Modeling</title>
+      <link>https://zohyos7.github.io/tags/computational-modeling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/tags/computational-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fMRI</title>
+      <link>https://zohyos7.github.io/tags/fmri/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/tags/fmri/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

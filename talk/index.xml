@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on YOONSEO ZOH</title>
+    <title>Talks on YOONSEO ZOH</title>
     <link>https://zohyos7.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on YOONSEO ZOH</description>
+    <description>Recent content in Talks on YOONSEO ZOH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -11,6 +11,37 @@
     
 	<atom:link href="https://zohyos7.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://zohyos7.github.io/talk/example-copy-2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/talk/example-copy-2/</guid>
+      <description>Click on the Slides button above to view the built-in slides feature.
+ Slides can be added in a few ways:
+ Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+    </item>
+    
+    <item>
+      <title>Lab Meeting Presentation on Hutcherson et al.(2015)</title>
+      <link>https://zohyos7.github.io/talk/example-copy/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/talk/example-copy/</guid>
+      <description>Click on the Slides button above to view the pdf file of my slides.
+ </description>
+    </item>
+    
+    <item>
+      <title>Lag Meeting Presentation on Nihonsugi et al.(2015)</title>
+      <link>https://zohyos7.github.io/talk/example/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/talk/example/</guid>
+      <description>Click on the Slides button above to view the pdf file of my slides.
+ </description>
+    </item>
     
   </channel>
 </rss>
