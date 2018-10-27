@@ -7,19 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://zohyos7.github.io/tags/fmri/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lab Meeting Presentation on Hutcherson et al.(2015)</title>
-      <link>https://zohyos7.github.io/talk/example-copy/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      <link>https://zohyos7.github.io/talk/hutcherson/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://zohyos7.github.io/talk/example-copy/</guid>
+      <guid>https://zohyos7.github.io/talk/hutcherson/</guid>
       <description>Click on the Slides button above to view the pdf file of my slides.
  </description>
+    </item>
+    
+    <item>
+      <title>Create fMRI Analysis Workflow with Python</title>
+      <link>https://zohyos7.github.io/project/nipype/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zohyos7.github.io/project/nipype/</guid>
+      <description></description>
     </item>
     
   </channel>
