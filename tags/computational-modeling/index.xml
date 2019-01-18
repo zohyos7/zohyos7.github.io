@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://zohyos7.github.io/tags/computational-modeling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lab Meeting Presentation on Siegel et al.(2018)</title>
+      <link>https://zohyos7.github.io/talk/siegel/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/talk/siegel/</guid>
+      <description>Click on the Slides button above to view the slides used for my presentation .
+ </description>
+    </item>
     
     <item>
       <title>Final Project of Computational Modeling Class, Spring 2018</title>
