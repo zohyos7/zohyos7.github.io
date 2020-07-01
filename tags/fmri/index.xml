@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://zohyos7.github.io/tags/fmri/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentation in class on Park et al.(2020)</title>
+      <link>https://zohyos7.github.io/talk/park/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/talk/park/</guid>
+      <description>Click on the Slides button above to view the pdf file of my slides.
+ </description>
+    </item>
     
     <item>
       <title>Lab Meeting Presentation on van Baar et al.(2019)</title>
@@ -28,6 +38,16 @@
       <pubDate>Thu, 31 May 2018 00:00:00 +0900</pubDate>
       
       <guid>https://zohyos7.github.io/talk/hutcherson/</guid>
+      <description>Click on the Slides button above to view the pdf file of my slides.
+ </description>
+    </item>
+    
+    <item>
+      <title>Presentation in class on Charpentier et al.(2020)</title>
+      <link>https://zohyos7.github.io/talk/charpentier/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://zohyos7.github.io/talk/charpentier/</guid>
       <description>Click on the Slides button above to view the pdf file of my slides.
  </description>
     </item>
