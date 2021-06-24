@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://zohyos7.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Create fMRI Analysis Workflow with Python</title>
-      <link>https://zohyos7.github.io/project/2_nipype/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://zohyos7.github.io/project/2_nipype/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Contribute to hBayesDM</title>
       <link>https://zohyos7.github.io/project/3_hbayesdm/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/project/3_hbayesdm/</guid>
       <description></description>
@@ -33,7 +24,7 @@
     <item>
       <title>Ideological correlates of social cognition and emotional processing during fMRI</title>
       <link>https://zohyos7.github.io/project/1_political/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/project/1_political/</guid>
       <description></description>
@@ -42,7 +33,7 @@
     <item>
       <title>Processing and Plotting LGBT risky choice data with R</title>
       <link>https://zohyos7.github.io/project/5_lgbt/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/project/5_lgbt/</guid>
       <description></description>
@@ -51,7 +42,7 @@
     <item>
       <title>Research Practicum Class Project, 2016 Spring</title>
       <link>https://zohyos7.github.io/project/7_research_practicum/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/project/7_research_practicum/</guid>
       <description></description>
@@ -60,7 +51,7 @@
     <item>
       <title>Review &amp; Propose task for measuring one&#39;s valuation to social vs. monetary reward</title>
       <link>https://zohyos7.github.io/project/4_taskdesign/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/project/4_taskdesign/</guid>
       <description></description>
@@ -69,9 +60,18 @@
     <item>
       <title>Senior Thesis on licensing effect of Moral condemnation</title>
       <link>https://zohyos7.github.io/project/6_seniorthesis/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/project/6_seniorthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create fMRI Analysis Workflow with Python</title>
+      <link>https://zohyos7.github.io/project/2_nipype/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zohyos7.github.io/project/2_nipype/</guid>
       <description></description>
     </item>
     

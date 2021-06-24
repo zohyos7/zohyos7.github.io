@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://zohyos7.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ideological correlates of social cognition and emotional processing during fMRI</title>
+      <link>https://zohyos7.github.io/project/1_political/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://zohyos7.github.io/project/1_political/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Create fMRI Analysis Workflow with Python</title>
@@ -18,15 +27,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://zohyos7.github.io/project/2_nipype/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ideological correlates of social cognition and emotional processing during fMRI</title>
-      <link>https://zohyos7.github.io/project/1_political/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
-      
-      <guid>https://zohyos7.github.io/project/1_political/</guid>
       <description></description>
     </item>
     

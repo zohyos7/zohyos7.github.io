@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://zohyos7.github.io/tags/computational-modeling/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Presentation in class on Park et al.(2020)</title>
       <link>https://zohyos7.github.io/talk/park/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/talk/park/</guid>
       <description>Click on the Slides button above to view the pdf file of my slides.
@@ -25,7 +25,7 @@
     <item>
       <title>Lab Meeting Presentation on van Baar et al.(2019)</title>
       <link>https://zohyos7.github.io/talk/vanbaar/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0900</pubDate>
+      <pubDate>Fri, 10 May 2019 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/talk/vanbaar/</guid>
       <description>Click on the Slides button above to view the slides used for my presentation .
@@ -35,7 +35,7 @@
     <item>
       <title>Lab Meeting Presentation on Siegel et al.(2018)</title>
       <link>https://zohyos7.github.io/talk/siegel/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://zohyos7.github.io/talk/siegel/</guid>
       <description>Click on the Slides button above to view the slides used for my presentation .
@@ -45,7 +45,7 @@
     <item>
       <title>Final Project of Computational Modeling Class, Spring 2018</title>
       <link>https://zohyos7.github.io/talk/modeling/</link>
-      <pubDate>Fri, 08 Jun 2018 00:00:00 +0900</pubDate>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/talk/modeling/</guid>
       <description>Click on the Slides and Codes button above to view the slides / codes used for our presentation .
@@ -55,27 +55,27 @@
     <item>
       <title>Lab Meeting Presentation on Hutcherson et al.(2015)</title>
       <link>https://zohyos7.github.io/talk/hutcherson/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 31 May 2018 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/talk/hutcherson/</guid>
-      <description>Click on the Slides button above to view the pdf file of my slides.
+      <description>Click on the Slides button above to view the slides used for my presentation .
  </description>
     </item>
     
     <item>
       <title>Presentation in class on Charpentier et al.(2020)</title>
       <link>https://zohyos7.github.io/talk/charpentier/</link>
-      <pubDate>Thu, 31 May 2018 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 31 May 2018 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/talk/charpentier/</guid>
-      <description>Click on the Slides button above to view the pdf file of my slides.
+      <description>Click on the Slides button above to view the slides used for my presentation .
  </description>
     </item>
     
     <item>
       <title>Lag Meeting Presentation on Nihonsugi et al.(2015)</title>
       <link>https://zohyos7.github.io/talk/nihonsugi/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 -0500</pubDate>
       
       <guid>https://zohyos7.github.io/talk/nihonsugi/</guid>
       <description>Click on the Slides button above to view the pdf file of my slides.
@@ -85,7 +85,7 @@
     <item>
       <title>Contribute to hBayesDM</title>
       <link>https://zohyos7.github.io/project/3_hbayesdm/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/project/3_hbayesdm/</guid>
       <description></description>
