@@ -28,7 +28,7 @@
       
       <guid>https://zohyos7.github.io/home/hero/</guid>
       <description>
-I&amp;rsquo;m a PhD student in Psychology at Yale,
+I&amp;rsquo;m a PhD student in Psychology at Princeton,
 aspring to be a social neuroscientist
 who studies human&amp;rsquo;s social &amp;amp; moral minds 💜  </description>
     </item>
@@ -39,16 +39,16 @@ who studies human&amp;rsquo;s social &amp;amp; moral minds 💜  </description>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/home/about/</guid>
-      <description>About me I&amp;rsquo;m a rising 2nd year PhD student in Psychology at Yale, working with Dr. Molly Crockett and Dr. Steve Chang. I received B.A. in Psychology and Education from Seoul National University with summa cum laude.
-I am interested in identifying the interplay of contexts and motives which give rise to the different modalities of human social minds, shifting from being caring and altruistic to being atrocious and selfish.</description>
+      <description>About me I&amp;rsquo;m a rising 4th year PhD student in Department of Psychology at Princeton, working with Dr. Molly Crockett. I received B.A. in Psychology and Education from Seoul National University with summa cum laude, and M.A. and M.phil. in Psychology (with concentration in Neuroscience) from Yale University.
+My research focuses on exploring the interaction between fundamental cognitive processes and systems of moral intuitions, and how they contribute to a wide range of human social behaviors.</description>
     </item>
     
     <item>
-      <title>Skills</title>
-      <link>https://zohyos7.github.io/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <title>Publications</title>
+      <link>https://zohyos7.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://zohyos7.github.io/home/skills/</guid>
+      <guid>https://zohyos7.github.io/home/publications/</guid>
       <description></description>
     </item>
     
@@ -71,11 +71,27 @@ I am interested in identifying the interplay of contexts and motives which give 
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://zohyos7.github.io/home/publications/</link>
+      <title>Teaching experience</title>
+      <link>https://zohyos7.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://zohyos7.github.io/home/publications/</guid>
+      <guid>https://zohyos7.github.io/home/teaching/</guid>
+      <description>PSY 200  Statistics, Yale University, Fall 2021
+with Dr. Dylan Gee
+PSY 376  Learning and Memory, Yale University, Spring 2022
+with Dr. Sam Mcdougal
+PSY 252  Social Psychology, Princeton University, Spring 2023
+with Dr. Rebecca Carey
+PSY 340  Neuroeconomics, Princeton University, Fall 2023 (planned)
+with Dr. Nathaniel Daw</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://zohyos7.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://zohyos7.github.io/home/skills/</guid>
       <description></description>
     </item>
     
@@ -104,16 +120,6 @@ I am interested in identifying the interplay of contexts and motives which give 
       
       <guid>https://zohyos7.github.io/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>https://zohyos7.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://zohyos7.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>
