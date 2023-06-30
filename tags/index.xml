@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jun 2023 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://zohyos7.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Academic</title>
-      <link>https://zohyos7.github.io/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://zohyos7.github.io/tags/academic/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Computational Modeling</title>
@@ -58,20 +49,20 @@
     </item>
     
     <item>
+      <title>Moral Norm</title>
+      <link>https://zohyos7.github.io/tags/moral-norm/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zohyos7.github.io/tags/moral-norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Moral Psychology</title>
       <link>https://zohyos7.github.io/tags/moral-psychology/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 -0400</pubDate>
       
       <guid>https://zohyos7.github.io/tags/moral-psychology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moral norm</title>
-      <link>https://zohyos7.github.io/tags/moral-norm/</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://zohyos7.github.io/tags/moral-norm/</guid>
       <description></description>
     </item>
     
