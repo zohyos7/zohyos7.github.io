@@ -7,18 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zohyos7.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Review &amp; Propose task for measuring one&#39;s valuation to social vs. monetary reward</title>
-      <link>https://zohyos7.github.io/project/4_taskdesign/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <title>Decision-making</title>
+      <link>https://zohyos7.github.io/project/c-decision-making/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zohyos7.github.io/project/4_taskdesign/</guid>
-      <description></description>
+      <guid>https://zohyos7.github.io/project/c-decision-making/</guid>
+      <description>How do we make decisions regarding transformative experiences, given that these very experiences could potentially change our preferences?
+How does our cognitive representation of the experiences of others, which are outside our own lived experiences, shape the social decisions we make?</description>
+    </item>
+    
+    <item>
+      <title>Epistemic Humility</title>
+      <link>https://zohyos7.github.io/project/b-epistemic-humility/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zohyos7.github.io/project/b-epistemic-humility/</guid>
+      <description>What cognitive mechanisms underlie our (in)ability to acknowledge the limits of comprehending others&amp;rsquo; lived experiences?
+What are the interventions that can foster epistemic humility, and which cognitive processes could be targeted?</description>
+    </item>
+    
+    <item>
+      <title>Moral Norm &amp; Ethics</title>
+      <link>https://zohyos7.github.io/project/a-moral-norms/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zohyos7.github.io/project/a-moral-norms/</guid>
+      <description>Whether and how do moral norms culturally evolve?
+How do we adjudicate between different moral principles when they conflict?
+What are cognitive subcomponents of utilitarianism and deontology?</description>
     </item>
     
   </channel>
