@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decision on YOONSEO ZOH</title>
+    <link>https://zohyos7.github.io/tags/decision/</link>
+    <description>Recent content in Decision on YOONSEO ZOH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://zohyos7.github.io/tags/decision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How evaluability bias shapes transformative decisions</title>
+      <link>https://zohyos7.github.io/publication/zoh-2023-s/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 -0500</pubDate>
+      
+      <guid>https://zohyos7.github.io/publication/zoh-2023-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zohyos7.github.io/publication/zoh-2023-d/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 -0400</pubDate>
+      
+      <guid>https://zohyos7.github.io/publication/zoh-2023-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
